@@ -1,15 +1,6 @@
-[IMG]https://raw.githubusercontent.com/P-404/stuff/master/dump/main.png[/IMG]
+[IMG]https://raw.githubusercontent.com/RedBirdROM/XDA-Stuff/master/dump/main.png[/IMG]
 
 [CENTER][B]Finally!! The wait is over We present You Project-404
-
-Leonardo Da Vinci, said
-"Simplicity is the ultimate sophistication."
-And with that Goal in mind we bring you the Rom you don't think you need but the one you deserve,
-
-(Oof sigh enough with quotes you must be getting bored) . So some of you might be like, sigh yet another Rom. Ugh we get it too, but give us a shot.
-
-Our core ideology for this Project is Aesthetic we are more focused on Aesthetic but also considering the usability since Aesthetic is as much as important as Usability and Stability. 
-( shameless plug: Quote by [MENTION=5970333]Markakash[/MENTION] ) [/CENTER][/B]
 
 [CODE]#include <std_disclaimer.h>
 /*
@@ -22,66 +13,48 @@ Our core ideology for this Project is Aesthetic we are more focused on Aesthetic
  * you point the finger at me for messing up your device, I will laugh at you.
  */[/CODE]
 
-[CENTER][B][SIZE=5]Team Project-404[/SIZE][/B]
-[user=5889244]@Ayushd70[/user]
-[user=9792468]@hpnightowl[/user]
-[user=5970333]@Markakash[/user]
-[user=8131258]@ojas.sinha[/user]
-[user=9454047]@UditKarode[/user]
-[user=4867044]@_undead[/user]
-[user=7771149]@YashGarg10[/user]
-
+[CENTER][B][SIZE=5]Team RedBirdROM[/SIZE][/B]
+[user=10551569]@Red Prez16[/user]
 
 [B][SIZE=5]Features[/SIZE][/B]
 - Battery Icon Styles
 - Advanced reboot
-- Screenshot sound disabler
-- Abel Music Player
-- Three Finger Screenshot
-- Long press volume to skip songs
-- Improved AOD ambient play ticker
-- FaceUnlock
-- Status bar tuner
-- Battery Stats
-- Hotspot Client Manager
-- Incall vibrations
-- Quick unlock
-- Expandable volume panel
-- Status bar time and date customization
-- Hotspot setting to allow VPN upstreams 
-- Some More which you are supposed to find xD
-- Much More Stuffs Coming Soon!
+- Custom Fonts 
+- reTicker
+- Customize Lockscreen UI
+- Hevily based on DerpFest
+- More to come!
 
-[B][SIZE=5]Project-404 Sources[/SIZE]
-P-404:[/B] [URL='https://github.com/P-404']Project-404[/URL]
-[B]P-404 Device Sources:[/B] [URL='https://github.com/P404-Devices']P-404 Devices[/URL]
+[B][SIZE=5]RedBirdROM Sources[/SIZE]
+RedBirdROM:[/B] [URL='https://github.com/RedBirdROM']RedBirdROM[/URL]
+[B]RedBirdROM Device Sources:[/B] [URL='https://github.com/RedBirdROM-Devices']P-404 Devices[/URL]
 
 [B][SIZE=5]Got an issue or suggestion? Reach us at[/SIZE]
-Telegram[/B]: [URL]https://t.me/project_404[/URL]
+Telegram[/B]: [URL]https://t.me/RedBirdROM[/URL]
 [B]Twitter[/B]: [URL]https://twitter.com/Project404x[/URL]
-[B]Channel[/B]: [URL]https://t.me/project404channel[/URL]
+[B]Channel[/B]: [URL]https://t.me/RedBirdROMReleases[/URL]
 
 [B][SIZE=5][B]Clean Install[/B][/SIZE][/B]
-- Backup all your data (Important)
-- Wipe /system, /data and cache.
-- Flash the ROM
-- Reboot
+Flashing Guide:[/B] [URL='https://redbirdrom.com/installation-guide/'][/URL]
 
 [SIZE=5][B]Updates[/B][/SIZE]
-- Flash ROM
-- Reboot!
 
-[B]ROM:[/B] [URL]https://dl.project404.xyz [/URL]
+Flashing Guide:[/B] [URL='https://redbirdrom.com/installation-guide/']Same thing, but don't do fastboot -w[/URL]
+
+
+[B]ROM:[/B] [URL]https://redbirdrom.com[/URL]
+
+[B]Downloads:[/B] [URL]https://downloads.redbirdrom.com[/URL]
+
 
 [B][SIZE=5]Credits[/SIZE][/B]
 
-[B][U]Contributors[/U][/B]
-[USER=10379423]@username[/USER]
 
 [B]ROM OS Version:[/B] Android 11
-[B]ROM Kernel:[/B] Linux 4.x
-[B]Kernel Source:[/B][URL] https://github.com/username/kernel_device brand_codename[/URL]
+[B]ROM Kernel:[/B] 5.15.110
+[B]Kernel Source:[/B][URL]https://android.googlesource.com/device/google/shusky-kernel/+/refs/tags/android-14.0.0_r17[/URL]
 
 [B][U]Version Information[/U]
 Status:[/B] Stable
-[B]Stable Release Date:[/B] Release Date
+[B]Stable Release Date:[/B] 1-20-2024
+
