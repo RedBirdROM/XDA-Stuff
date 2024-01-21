@@ -1,6 +1,5 @@
 [IMG]https://raw.githubusercontent.com/RedBirdROM/XDA-Stuff/master/dump/main.png[/IMG]
 
-[CENTER][B]Finally!! The wait is over We present You Project-404
 
 [CODE]#include <std_disclaimer.h>
 /*
