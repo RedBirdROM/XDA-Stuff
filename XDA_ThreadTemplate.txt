@@ -21,7 +21,7 @@
 - Custom Fonts 
 - reTicker
 - Customize Lockscreen UI
-- Hevily based on DerpFest
+- Heavily based on DerpFest
 - More to come!
 
 [B][SIZE=5]RedBirdROM Sources[/SIZE]
