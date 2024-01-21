@@ -27,11 +27,10 @@
 
 [B][SIZE=5]RedBirdROM Sources[/SIZE]
 RedBirdROM:[/B] [URL='https://github.com/RedBirdROM']RedBirdROM[/URL]
-[B]RedBirdROM Device Sources:[/B] [URL='https://github.com/RedBirdROM-Devices']P-404 Devices[/URL]
+[B]RedBirdROM Device Sources:[/B] [URL='https://github.com/RedBirdROM-Devices']RedBirdROM Devices[/URL]
 
 [B][SIZE=5]Got an issue or suggestion? Reach us at[/SIZE]
 Telegram[/B]: [URL]https://t.me/RedBirdROM[/URL]
-[B]Twitter[/B]: [URL]https://twitter.com/Project404x[/URL]
 [B]Channel[/B]: [URL]https://t.me/RedBirdROMReleases[/URL]
 
 [B][SIZE=5][B]Clean Install[/B][/SIZE][/B]
